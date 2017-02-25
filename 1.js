@@ -1,1 +1,2 @@
-console.log('yellow')
+
+console.log('red')
